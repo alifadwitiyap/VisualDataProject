@@ -4,4 +4,4 @@
 -   [Assignment 9](https://alifadwitiyap.github.io/VisualDataProject/assignmentTopic9/) - Covid 19 Geoplot
 -   [Assignment 10](https://alifadwitiyap.github.io/VisualDataProject/assignmentTopic10/) - City Importance
 -   [Projek UTS](https://alifadwitiyap.github.io/VisualDataProject/UTS/) - UTS Assignment
--   Projek UAS (TBA)
+
